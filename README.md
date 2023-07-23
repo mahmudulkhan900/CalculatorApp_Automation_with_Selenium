@@ -34,7 +34,7 @@ calcuateSeries("100/10*5-10+60");
   - Run the following command into the terminal: gradle clean test
   - For generating Allure report, use these commands: allure generate allure-results --clean -output and then allure serve allure-results
 
-## PreRequisite
+## Pre-Requisite
 - Install Android Studio
 - Install Appium
 - Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME
