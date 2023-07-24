@@ -39,3 +39,12 @@ calcuateSeries("100/10*5-10+60");
 - Install Appium
 - Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME
   
+## Allure report
+
+![Screenshot 2023-07-24 124243](https://github.com/mahmudulkhan900/CalculatorApp_Automation_with_Selenium/assets/60164456/5ed88a09-2005-451e-8328-5d731e0f1be3)
+
+![Screenshot 2023-07-24 125029](https://github.com/mahmudulkhan900/CalculatorApp_Automation_with_Selenium/assets/60164456/dddd6c2f-dc5b-43e8-b144-7942cc6f9bf0)
+
+## Video_of_the_App-Automation
+
+https://drive.google.com/drive/folders/1rNjfG_4Sr5nfQ9mC4BBjaaEq-4Bpctii?usp=sharing
